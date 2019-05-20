@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+   
+}
+
+.bocadillo {
+    margin-top: 30px;
+    margin-left: 100px;
+    position: relative;
+    height: 150px;
+    width: 300px;
+    box-sizing: border-box;
+    background: white;
+    border-radius: 50%;
+    box-shadow: 1px 12px 33px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-overflow: clip;
+    white-space: wrap;
+    
+}
+.bocadillo:before {
+    border: 25px solid white;
+    content: '';
+    border-left-color: transparent;
+    border-bottom-color: transparent;
+    border-right-color: transparent;
+    position: absolute;
+    bottom: -20px;
+    right: 244px;
+    transform: rotate(30deg);
+}
+.translation {
+    width: 80%;
+    
+    
+}
+.girl {
+    width: 200px;
+    height: 355px;
+    position: absolute;
+    left: 25%;
+    bottom: 20px;
+
+
+}
+.hidden {
+    display: none;
+}
