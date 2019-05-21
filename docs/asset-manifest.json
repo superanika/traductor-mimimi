@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1281761f.chunk.css",
-    "main.js": "/static/js/main.ef433290.chunk.js",
-    "main.js.map": "/static/js/main.ef433290.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.3d3e5e3a.chunk.js": "/static/js/2.3d3e5e3a.chunk.js",
-    "static/js/2.3d3e5e3a.chunk.js.map": "/static/js/2.3d3e5e3a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.997a504501c1a6310fde7a1adc40f6c3.js": "/precache-manifest.997a504501c1a6310fde7a1adc40f6c3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1281761f.chunk.css.map": "/static/css/main.1281761f.chunk.css.map",
-    "static/media/repelente.png": "/static/media/repelente.3f8b5045.png"
+    "main.css": "./static/css/main.6e3fe864.chunk.css",
+    "main.js": "./static/js/main.01835133.chunk.js",
+    "main.js.map": "./static/js/main.01835133.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.3d3e5e3a.chunk.js": "./static/js/2.3d3e5e3a.chunk.js",
+    "static/js/2.3d3e5e3a.chunk.js.map": "./static/js/2.3d3e5e3a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.5319372f2f0500dbb2f5966d6fd1a016.js": "./precache-manifest.5319372f2f0500dbb2f5966d6fd1a016.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.6e3fe864.chunk.css.map": "./static/css/main.6e3fe864.chunk.css.map",
+    "static/media/repelente.png": "./static/media/repelente.3f8b5045.png"
   }
 }
