@@ -25,11 +25,13 @@ class App extends React.Component {
   render () {
     return (
       <div className="App">
+        <div className="text_wrapper">
         <h1 className="title">Tiquis Miquis</h1>
         <TextInput 
         handleText = {this.handleText}
         message = {this.state.message}
         />
+        </div>
         <MIMIMITranslator 
         mimimi = {this.state.mimimi}
         />

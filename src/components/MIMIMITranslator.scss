@@ -6,13 +6,16 @@
 }
 
 .bocadillo {
-    margin-top: 30px;
     position: absolute;
-    bottom: 300px;
+    top: 240px;
     right: 20px;
     width: 70vw;
     max-width: 400px;
     min-width: 200px;
+    max-height: 130px;
+    overflow: scroll;
+    white-space: wrap;
+  
     box-sizing: border-box;
     background: white;
     border-radius: 50%;
@@ -21,12 +24,10 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    text-overflow: clip;
-    white-space: wrap;
-    
+   
 }
 .bocadillo:before {
-    border: 25px solid white;
+    border: 25px solid red;
     content: '';
     border-left-color: transparent;
     border-bottom-color: transparent;
@@ -38,6 +39,11 @@
 }
 .translation {
     width: 80%;
+    overflow: hidden;
+    padding-bottom: 15px;
+    max-height: 100px;
+    font-size: 14px;
+    box-sizing: border-box;
     
     
 }
@@ -47,7 +53,7 @@
     width: 150px;
     height: 266px;
     align-self: flex-start;
-    margin-top: 40px;
+    margin-bottom: 20px;
 
 
 }
